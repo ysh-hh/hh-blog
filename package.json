@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 4173",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs "
+  },
+  "devDependencies": {
+    "vitepress": "v2.0.0-alpha.15"
+  }
+}
