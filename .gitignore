@@ -7,7 +7,7 @@
 .pnp.js
 .pnp-lock.yaml
 .yarn.lock
-package-lock.json
+#package-lock.json
 
 # build output
 dist/
